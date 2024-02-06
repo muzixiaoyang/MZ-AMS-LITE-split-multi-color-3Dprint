@@ -1,1 +1,1 @@
-# AMS-LITE
+# MZ-AMS-LITE
