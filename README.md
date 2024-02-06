@@ -7,12 +7,12 @@ The project aims to bring multi-material capabilities to 3D printers using multi
 Did you like the project? Do you want to support me and my work and help me bring new cool stuff to the community? Well, you can tip me here
 
 # Table of Content
-## Changelog
-## Showroom
-## Videos
-## Details
-## BOM
-## Acknowledgements
-## FAQ
+* Changelog
+* Showroom
+* Videos
+* Details
+* BOM
+* Acknowledgements
+* FAQ
 ### 
 ### 
