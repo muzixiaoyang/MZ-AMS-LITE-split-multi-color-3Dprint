@@ -17,6 +17,6 @@ Did you like the project? Do you want to support me and my work and help me brin
 * FAQ
 ## Changelog
 * On October 16, 2023, the AMS project was officially confirmed, and the structural software and hardware design planning officially began
-* On November 23, 2023, the first two-color 3D printing was completed, marking the success of the software test
+* On November 23, 2023, two-color 3D printing was completed, marking the success of the software test
 * 
 ## Showroom
