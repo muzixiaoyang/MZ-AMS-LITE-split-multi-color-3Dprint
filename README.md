@@ -10,11 +10,9 @@ Did you like the project? Do you want to support me and my work and help me brin
 * Changelog
 * Showroom
 * Videos
-* 
 * Details
 * BOM
 * Acknowledgements
-* FAQ
 ## Changelog
 * On October 16, 2023, the AMS project was officially confirmed, and the structural software and hardware design planning officially began
 * On November 23, 2023, two-color 3D printing was completed, marking the success of the software test
@@ -23,8 +21,9 @@ Did you like the project? Do you want to support me and my work and help me brin
 * On December 06, 2023, the controlled end of the first version of AMS-LITE was completed (obsolete)
 * 
 ## Showroom
-
-# Acknowledgements
+## Videos
+## Details
+## Acknowledgements
 Thanks to the VORON Design devs and VORON discord members for the discussions and support
 
 Thanks to Yanshimi, miumoon and many others for supporting this project!
