@@ -14,5 +14,5 @@ Did you like the project? Do you want to support me and my work and help me brin
 * BOM
 * Acknowledgements
 * FAQ
-### 
-### 
+## Changelog
+## Showroom
