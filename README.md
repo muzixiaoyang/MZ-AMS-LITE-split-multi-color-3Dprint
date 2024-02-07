@@ -17,9 +17,13 @@ Did you like the project? Do you want to support me and my work and help me brin
 * On October 16, 2023, the AMS project was officially confirmed, and the structural software and hardware design planning officially began
 * On November 23, 2023, two-color 3D printing was completed, marking the success of the software test
 * On November 26, 2023, the design of AMS-LITE PCB officially began
-* On November 27, 2023, the PCB of the first version of AMS-LITE was completed (obsolete)
-* On December 06, 2023, the controlled end of the first version of AMS-LITE was completed (obsolete)
-* 
+* On November 27, 2023, the main control PCB of the first version of AMS-LITE was completed (obsolete)
+* On December 06, 2023, the controlled side PCB of the first version of AMS-LITE was completed (obsolete)
+* On December 9, 2023, the main control PCB of the second version of AMS-LITE was completed (the test passed)
+* On December 10, 2023, the controlled side PCB of the second version of AMS-LITE was completed (the test passed)
+* On December 14, 2023, the development of the 4-channel AMS-LITE core module was completed, which can support 4+4+4 expansion
+* On December 28, 2023, the software logic was optimized
+2024-01-10, AMS-LITE controlled and master PCB were updated
 ## Showroom
 ## Videos
 ## Details
