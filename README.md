@@ -24,6 +24,8 @@ Did you like the project? Do you want to support me and my work and help me brin
 * On December 14, 2023, the development of the 4-channel AMS-LITE core module was completed, which can support 4+4+4 expansion
 * On December 28, 2023, the software logic was optimized
 * On January 10, 2024, the AMS-LITE control and master PCB were updated
+* On January 17, 2024, a teaser will be released
+* On February 1, 2024, it will be officially released
 ## Showroom
 ## Videos
 ## Details
