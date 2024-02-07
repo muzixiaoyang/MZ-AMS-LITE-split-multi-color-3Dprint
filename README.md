@@ -26,7 +26,7 @@ Did you like the project? Do you want to support me and my work and help me brin
 ## Acknowledgements
 Thanks to the VORON Design devs and VORON discord members for the discussions and support
 
-Thanks to Yanshimi, miumoon and many others for supporting this project!
+Thanks to Yanshimi, muimoon and many others for supporting this project!
 
 Muzixiaoyang
 
