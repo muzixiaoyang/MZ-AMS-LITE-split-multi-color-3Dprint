@@ -34,7 +34,7 @@ Did you like the project? Do you want to support me and my work and help me brin
 https://www.bilibili.com/video/BV1Mv421i7iz
 ## Details
 ## Acknowledgements
-Thanks to the VORON Design devs and VORON discord members for the discussions and support
+Thanks to VORON Design developers, BIGTREETECH for their support and SUNLU filament for their provision
 
 Thanks to Yanshimi, muimoon and many others for supporting this project!
 
