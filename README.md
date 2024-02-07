@@ -28,6 +28,7 @@ Did you like the project? Do you want to support me and my work and help me brin
 * On February 1, 2024, it will be officially released
 ## Showroom
 ## Videos
+https://www.bilibili.com/video/BV1Mv421i7iz
 ## Details
 ## Acknowledgements
 Thanks to the VORON Design devs and VORON discord members for the discussions and support
